@@ -1,0 +1,5 @@
+/node_modules
+.omc
+.claude
+.env
+.DS_Store

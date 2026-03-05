@@ -1,0 +1,6 @@
+{
+  "REST_TEST_LOG_LEVEL": 0,
+  "BASE_URL": "https://httpbin.org",
+  "MEDAPP_BASE_URL": "https://medapp.dev.upcodeteam.com",
+  "MEDPARK_PORTAL_BASE_URL": "https://medparkportal.fonetyazilim.com/v2/mobile/patient-portal"
+}
